@@ -24,7 +24,6 @@ Actualmente estoy desarrollando un **portafolio web** donde presento soluciones 
 
 ## 🛠️ Tecnologías y Herramientas
 
-## 🛠️ Tecnologías y Herramientas
 
 | Área        | Tecnologías / Herramientas |
 |-------------|----------------------------|
